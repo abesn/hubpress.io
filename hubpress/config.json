@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "abesn",
-    "repositoryName": "hubpress.io",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"abesn","repositoryName":"hubpress.io","branch":"gh-pages"},"site":{"title":"Abesn Hubpress Blog","description":"Blogging with hubpress.io","logo":"https://placehold.it/100x40","cover":"https://placehold.it/350x150","postsPerPage":"3","url":"https://abesn.github.io/hubpress.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//abesn.github.io/hubpress.io/themes/Casper"}}
